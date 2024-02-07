@@ -77,12 +77,21 @@ span{
 .lista{
     margin-left: 10px;
     padding: 10px;
+    line-height: 30px;
 }
 
 
 section {
     
     padding: 20px;
+}
+hr{
+    width: 650px;
+    height: 2px;
+    margin: 20px auto;
+    border: none;
+    background-color: var(--LightGrey);
+    
 }
 
 .imagem {
